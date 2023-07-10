@@ -8,3 +8,4 @@ I am responsible for creating 70% of frontend components.These frontend componen
 ![ca5](https://github.com/SaadHassanSyed/CastingPax/assets/10111894/738a04d1-5484-46eb-9bb7-557303c5642b)
 ![ca6](https://github.com/SaadHassanSyed/CastingPax/assets/10111894/86f7d271-c018-4150-94ae-09c05efe8204)
 ![ca8](https://github.com/SaadHassanSyed/CastingPax/assets/10111894/9028ad0c-2fb4-4007-b670-0498f6ea688a)
+![ca10](https://github.com/SaadHassanSyed/CastingPax/assets/10111894/e93c19a7-c4e1-4d40-b910-715da0d6d9a0)
